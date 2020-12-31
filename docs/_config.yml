@@ -21,7 +21,7 @@
 title: Mark Hibbins
 email: mhibbins@iu.edu
 description: "Welcome to my website! Currently under construction."
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mhibbins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "mhibbins/mhibbins.github.io"
 twitter_username: reject_resubmit
