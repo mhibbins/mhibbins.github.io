@@ -31,9 +31,11 @@ markdown: kramdown
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.21.0
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
 defaults:
   # _pages
   - scope:
@@ -46,6 +48,11 @@ defaults:
 include:
   - _pages  
   - _layouts
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
