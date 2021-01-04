@@ -1,7 +1,15 @@
 # main links 
 
+#[![Twitter account](images/Twitter_Logo_Blue.png)](https://twitter.com/reject_resubmit)
+
 main:
+  - title: "About me"
+    url: /about/
   - title: "Research"
     url: /research/
+  - title: "Publications"
+    url: /pubs/
   - title: "CV"
     url: CV.pdf
+  - title: "Contact"
+    url: /contact/
