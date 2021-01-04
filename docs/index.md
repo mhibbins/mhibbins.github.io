@@ -3,9 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+header:
+  image: images/header.png
 ---
 
-### Welcome! My name's Mark Hibbins.
+### Welcome! 
 
 I'm a PhD candidate in Evolutionary Biology with a minor in Bioinformatics,
 working in [Matthew Hahn's lab](https://hahnlab.sitehost.iu.edu/) at Indiana
