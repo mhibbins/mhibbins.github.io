@@ -7,6 +7,10 @@ layout: single
 See my [Google Scholar page](https://scholar.google.com/citations?user=ntv9ciwAAAAJ&hl=en)
 for the most up-to-date list of my publications.
 
+### Preprints & manuscripts in press
+
+**Hibbins M.S.**, Hahn M.W. 2021. [Phylogenomic approaches to detecting and characterizing introgression.](https://doi.org/10.32942/osf.io/uahd8) EcoEvoRxiv.
+
 ### Peer-reviewed journal articles 
 
 **Hibbins M.S.**, Gibson M.J.S, Hahn M.W. 2020. [Determining the probability of hemiplasy in the presence of incomplete lineage sorting and introgression.](https://doi.org/10.7554/eLife.63753) eLife 9: e63753. 
