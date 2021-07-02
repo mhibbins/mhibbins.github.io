@@ -9,6 +9,8 @@ for the most up-to-date list of my publications.
 
 ### Preprints & manuscripts in press
 
+**Hibbins, M.S.**, Hahn M.W. 2021. [The effects of introgression across thousands of quantitative traits revealed by gene expression in wild tomatoes.](https://doi.org/10.1101/2021.07.01.450726) BioRxiv.
+
 **Hibbins M.S.**, Hahn M.W. 2021. [Phylogenomic approaches to detecting and characterizing introgression.](https://doi.org/10.32942/osf.io/uahd8) EcoEvoRxiv.
 
 ### Peer-reviewed journal articles 
