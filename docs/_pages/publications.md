@@ -7,11 +7,9 @@ layout: single
 See my [Google Scholar page](https://scholar.google.com/citations?user=ntv9ciwAAAAJ&hl=en)
 for the most up-to-date list of my publications.
 
-### Preprints & manuscripts in press
+### Peer-reviewed journal articles
 
-**Hibbins M.S.**, Hahn M.W. 2021. [Phylogenomic approaches to detecting and characterizing introgression.](https://doi.org/10.32942/osf.io/uahd8) Accepted to Genetics. Link to preprint on EcoEvoRxiv.
-
-### Peer-reviewed journal articles 
+**Hibbins M.S.**, Hahn M.W. 2021. [Phylogenomic approaches to detecting and characterizing introgression.](https://doi.org/10.1093/genetics/iyab173) Genetics: iyab173. 
 
 **Hibbins, M.S.**, Hahn M.W. 2021. [The effects of introgression across thousands of quantitative traits revealed by gene expression in wild tomatoes.](https://doi.org/10.1371/journal.pgen.1009892) PLoS Genetics 17(11): e1009892
 
