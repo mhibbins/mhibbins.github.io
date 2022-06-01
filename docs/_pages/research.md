@@ -24,8 +24,16 @@ topology. Two major causes are incomplete lineage sorting and introgression.
 **Hemiplasy** occurs when evolutionary change along a discordant branch results 
 in trait patterns that look like convergent evolution, but actually result from a 
 single origin. Classic phylogenetic comparative methods do not account for hemiplasy
-when making inferences about trait evolution. I have been approaching this problem
-by writing software which uses coalescent simulation to estimate the probability of 
-hemiplasy for binary traits. I have also been studying the contributions of incomplete 
-lineage sorting and introgression to the evolution of gene expression using whole-transcriptome
-data from wild tomatoes. 
+when making inferences about trait evolution. I have been developing theory and software
+with the goal of making more robust inferences in the presence of gene tree
+discordance. 
+
+### Mating system and sex chromosome evolution in land plants
+
+Recent evolutionary transitions to dioecy and sex chromosomes in certain land plant
+clades can provide valuable insights into the origins and maintenance of these mating
+systems. In my postdoc I am studying the genus *Rumex*, which contains multiple independet
+origins of dioecy and X/Y sex determination from hermaphroditic ancestors. I am 
+reconstructing the history of these traits over the *Rumex* phylogeny and investigating
+how they have affected the evolution of transcriptomes and recombination. 
+

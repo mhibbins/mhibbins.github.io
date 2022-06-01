@@ -7,7 +7,9 @@ layout: single
 ![Mazinaw Lake, ON](../images/about.jpg)
 
 
-I'm a PhD candidate in Evolutionary Biology with a minor in Bioinformatics,
+I'm an EEB Postdoctoral Fellow at The University of Toronto, working primarily with
+[Stephen Wright](https://wright.eeb.utoronto.ca/). I did my
+PhD in Evolutionary Biology with a minor in Bioinformatics,
 working in [Matthew Hahn's lab](https://hahnlab.sitehost.iu.edu/) at Indiana
 University Bloomington. I'm broadly interested in molecular population genetics, phylogenetics,
 and bioinformatics.

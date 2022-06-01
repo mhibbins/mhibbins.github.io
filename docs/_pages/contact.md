@@ -4,7 +4,7 @@ permalink: /contact/
 layout: single
 ---
 
-I can be reached by email at mhibbins at indiana.edu. Find my social media, Google Scholar, and GitHub pages at the following links: 
+I can be reached by email at mark.hibbins at utoronto.ca. Find my social media, Google Scholar, and GitHub pages at the following links: 
  
 [![Twitter account](../images/Twitter_Logo_Blue.png)](https://twitter.com/reject_resubmit)
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  [![LinkedIn account](../images/LI-In-Bug.png)](https://www.linkedin.com/in/mark-hibbins-9ab10095/)
