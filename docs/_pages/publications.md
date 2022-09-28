@@ -7,6 +7,10 @@ layout: single
 See my [Google Scholar page](https://scholar.google.com/citations?user=ntv9ciwAAAAJ&hl=en)
 for the most up-to-date list of my publications.
 
+### Preprints
+
+**Hibbins M.S.**, Hahn M.W. 2022. [Distinguishing between histories of speciation and introgression using genomic data.](https://doi.org/10.1101/2022.09.07.506990) BioRxiv.
+
 ### Peer-reviewed journal articles
 
 **Hibbins M.S.**, Hahn M.W. 2021. [Phylogenomic approaches to detecting and characterizing introgression.](https://doi.org/10.1093/genetics/iyab173) Genetics: iyab173. 

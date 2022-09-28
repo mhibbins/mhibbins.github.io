@@ -28,12 +28,15 @@ when making inferences about trait evolution. I have been developing theory and 
 with the goal of making more robust inferences in the presence of gene tree
 discordance. 
 
-### Mating system and sex chromosome evolution in land plants
+### The evolution of gene regulation underlying complex traits
 
-Recent evolutionary transitions to dioecy and sex chromosomes in certain land plant
-clades can provide valuable insights into the origins and maintenance of these mating
-systems. In my postdoc I am studying the genus *Rumex*, which contains multiple independet
-origins of dioecy and X/Y sex determination from hermaphroditic ancestors. I am 
-reconstructing the history of these traits over the *Rumex* phylogeny and investigating
-how they have affected the evolution of transcriptomes and recombination. 
+Transcriptomic datasets provide valuable insights into both functional aspects
+of the biology of organisms and general patterns of quantitative trait evolution
+among species. My research applies phylogenetic comparative methods to multispecies
+transcriptomic datasets to answer questions at the intersection of these two 
+approaches. In my postdoc I am using transcriptomic data to study the genus *Rumex*, 
+which contains multiple independent origins of dioecy and X/Y sex determination from 
+hermaphroditic ancestors. I am reconstructing the history of these traits over the 
+*Rumex* phylogeny and investigating how they have affected the evolution of gene 
+expression and recombination.
 
