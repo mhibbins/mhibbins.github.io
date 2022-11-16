@@ -9,7 +9,9 @@ for the most up-to-date list of my publications.
 
 ### Preprints
 
-**Hibbins M.S.**, Hahn M.W. 2022. [Distinguishing between histories of speciation and introgression using genomic data.](https://doi.org/10.1101/2022.09.07.506990) BioRxiv.
+**Hibbins M.S.**, Breithaupt L.C., Hahn M.W. 2022. [Phylogenomic comparative methods: accurate evolutionary inferences in the presence of gene tree discordance.](https://doi.org/10.1101/2022.11.14.516436). BioRxiv.
+
+**Hibbins M.S.**, Hahn M.W. 2022. [Distinguishing between histories of speciation and introgression using genomic data.](https://doi.org/10.1101/2022.09.07.506990). BioRxiv.
 
 ### Peer-reviewed journal articles
 
