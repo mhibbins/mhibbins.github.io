@@ -9,13 +9,13 @@ for the most up-to-date list of my publications.
 
 ### Preprints
 
-**Hibbins M.S.**, Breithaupt L.C., Hahn M.W. 2022. [Phylogenomic comparative methods: accurate evolutionary inferences in the presence of gene tree discordance.](https://doi.org/10.1101/2022.11.14.516436). BioRxiv.
-
 **Hibbins M.S.**, Hahn M.W. 2022. [Distinguishing between histories of speciation and introgression using genomic data.](https://doi.org/10.1101/2022.09.07.506990). BioRxiv.
 
 ### Peer-reviewed journal articles
 
-**Hibbins M.S.**, Hahn M.W. 2021. [Phylogenomic approaches to detecting and characterizing introgression.](https://doi.org/10.1093/genetics/iyab173) Genetics: iyab173. 
+**Hibbins M.S.**, Breithaupt L.C., Hahn M.W. 2023. [Phylogenomic comparative methods: accurate evolutionary inferences in the presence of gene tree discordance.](https://doi.org/10.1073/pnas.2220389120) PNAS 120(22): e2220389120. 
+
+**Hibbins M.S.**, Hahn M.W. 2022. [Phylogenomic approaches to detecting and characterizing introgression.](https://doi.org/10.1093/genetics/iyab173) Genetics 220(2): iyab173. 
 
 **Hibbins, M.S.**, Hahn M.W. 2021. [The effects of introgression across thousands of quantitative traits revealed by gene expression in wild tomatoes.](https://doi.org/10.1371/journal.pgen.1009892) PLoS Genetics 17(11): e1009892
 

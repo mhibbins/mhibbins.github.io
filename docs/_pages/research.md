@@ -4,7 +4,12 @@ permalink: /research/
 layout: single
 ---
 
-### Detecting and characterizing introgression from genomic data
+My research applies theoretical and computational approaches to
+**phylogenomics**, the study of evolutionary relationships among
+species using genome-scale datasets. Within this broad theme,
+I have three primary research aims:  
+
+### Detecting and characterizing introgression using genomic data
 &nbsp;  
 ![Figure 3 from Hibbins & Hahn 2019 (Genetics)](../images/research_1.jpg)
 
@@ -28,12 +33,16 @@ about trait evolution. I have been developing theory and software
 with the goal of making more robust inferences in the presence of gene tree
 discordance. 
 
-### Understanding the nature of genomic parallelism and convergence
+### Understanding the genomic basis of parallel evolution
+&nbsp;
+![Figure from Hibbins et al. 2023 in prep](../images/research_3.png)
 
 A fundamental question in molecular evolution is whether convergence at the 
 phenotypic level is underlain by convergence at the genetic / molecular 
-level. I am using modern genomic techniques to answer this question in a 
-variety of systems, focusing on two main topics: 1) the evolution of 
-transcriptional regulation in response to convergent phenotypic evolution;
-2) the evolution of mating system and sex chromosome variation among lineages.
+level. Genome-scale datasets are allowing for unprecented insights into
+this question for highly complex traits. I am using modern genomic 
+techniques to answer this question in a variety of systems, focusing on 
+two main topics: 1) the evolution of transcriptional regulation associated
+with parallel phenotypic evolution; 2) the evolution of mating system and 
+sex chromosome variation among lineages.
 
