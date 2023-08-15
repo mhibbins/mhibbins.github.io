@@ -33,16 +33,14 @@ about trait evolution. I have been developing theory and software
 with the goal of making more robust inferences in the presence of gene tree
 discordance. 
 
-### Understanding the genomic basis of parallel evolution
+### Understanding macroevolutionary drivers of genome and transcriptome evolution
 &nbsp;
 ![Figure from Hibbins et al. 2023 in prep](../images/research_3.png)
 
-A fundamental question in molecular evolution is whether convergence at the 
-phenotypic level is underlain by convergence at the genetic / molecular 
-level. Genome-scale datasets are allowing for unprecented insights into
-this question for highly complex traits. I am using modern genomic 
-techniques to answer this question in a variety of systems, focusing on 
-two main topics: 1) the evolution of transcriptional regulation associated
-with parallel phenotypic evolution; 2) the evolution of mating system and 
-sex chromosome variation among lineages.
+Genomes and transcriptomes vary widely among species. The forces shaping 
+this variation are complex and, in many cases, not well understood. I am 
+using modern genomic techniques to answer this question in a variety of 
+systems, focusing on two main topics: 1) the evolution of transcriptional 
+regulation associated with parallel phenotypic evolution; 2) the evolution 
+of sex chromosome gain, loss, and turnover. 
 
