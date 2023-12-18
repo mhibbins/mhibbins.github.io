@@ -9,6 +9,8 @@ for the most up-to-date list of my publications.
 
 ### Preprints
 
+**Hibbins M.S.**, Rifkin J.L., Choudhury B.I, Voznesenka O., Sacchi B.M., Yuan M., Gong Y., Barrett S.C.H., Wright S.I. 2023. [Phylogenomics resolves key relationships in Rumex and uncovers a dynamic history of independently evolving sex chromosomes.](https://doi.org/10.1101/2023.12.13.571571). BioRxiv.
+
 **Hibbins M.S.**, Hahn M.W. 2022. [Distinguishing between histories of speciation and introgression using genomic data.](https://doi.org/10.1101/2022.09.07.506990). BioRxiv.
 
 ### Peer-reviewed journal articles
