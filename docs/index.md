@@ -4,7 +4,7 @@
 
 layout: home
 header:
-  image: images/header.png
+  image: images/lab_logo.png
 ---
 
-Test text here
+#The Hibbins Lab will be starting at the University of Rochester in July 2025! Stay tuned for more updates.
