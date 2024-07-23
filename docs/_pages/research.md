@@ -35,14 +35,18 @@ in developing theory and software with the goal of making more robust comparativ
 inferences from sets of discordant gene trees, which more accurately reflect these
 non-treelike processes.
 
-### Understanding macroevolutionary drivers of genome and transcriptome evolution
+### Understanding macroevolutionary drivers of genome and karyotype evolution
 &nbsp;
 ![Figure from Hibbins et al. 2023 in prep](../images/research_3.png)
 
-Genomes and transcriptomes vary widely among species. The forces shaping 
-this variation are complex and, in many cases, not well understood. I am 
-using modern genomic techniques to answer this question in a variety of 
-systems, focusing on two main topics: 1) the evolution of transcriptional 
-regulation associated with parallel phenotypic evolution; 2) the evolution 
-of sex chromosome gain, loss, and turnover. 
+The structure and content of genomes varies widely among species. 
+The forces shaping this variation are complex and, in many cases, 
+not well understood. I am investigating these questions using a combination 
+of theory, methods development, and modern genomic techniques in a variety of 
+systems. A major focus of this work to date has been investigating the drivers
+of sex chromosome gain, loss, and turnover, the rate of which varies widely
+across the eukaryotic tree of life. I am also interested in developing new
+approaches to studying chromosomal rearrangements and the role they may
+play in macroevolutionary processes such as genome evolution and speciation.
 
+### 
