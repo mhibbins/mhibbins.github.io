@@ -37,7 +37,7 @@ non-treelike processes.
 
 ### Understanding macroevolutionary drivers of genome and karyotype evolution
 &nbsp;
-![Figure from Hibbins et al. 2023 in prep](../images/research_3.png)
+![Figure from Hibbins et al. 2023 (BioRxiv)](../images/research_3.png)
 
 The structure and content of genomes varies widely among species. 
 The forces shaping this variation are complex and, in many cases, 
@@ -49,4 +49,14 @@ across the eukaryotic tree of life. I am also interested in developing new
 approaches to studying chromosomal rearrangements and the role they may
 play in macroevolutionary processes such as genome evolution and speciation.
 
-### 
+### The molecular basis of phenotypic convergence in complex quantitative traits
+![Figure from Lipshutz, Hibbins et al. 2023 (BioRxiv)](../images/research_4.png)
+
+Advances in sequencing technology and computational resources are enabling the 
+integration of phylogenetic comparative methodds with large-scale "omics" 
+datasets. This is opening new avenues for investigations of the molecular
+genetic basis of complex quantitative traits with highly polygenic genetic
+underpinnings. I am particularly interested in the evolution of gene expression
+across the whole transcriptome in response to such instances of phenotypic
+convergence. This work has been conducted primarily in collaborative efforts,
+with a current focus on the evolution of territorial aggression in songbirds.
