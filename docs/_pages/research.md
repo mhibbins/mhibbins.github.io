@@ -50,7 +50,7 @@ approaches to studying chromosomal rearrangements and the role they may
 play in macroevolutionary processes such as genome evolution and speciation.
 
 ### The molecular basis of phenotypic convergence in complex quantitative traits
-![Figure from Lipshutz, Hibbins et al. 2023 (BioRxiv)](../images/research_4.png)
+![Figure from Lipshutz, Hibbins et al. 2023 (BioRxiv)](../images/research_4.jpg)
 
 Advances in sequencing technology and computational resources are enabling the 
 integration of phylogenetic comparative methodds with large-scale "omics" 
