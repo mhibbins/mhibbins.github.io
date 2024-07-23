@@ -4,34 +4,36 @@ permalink: /research/
 layout: single
 ---
 
-My research applies theoretical and computational approaches to
-**phylogenomics**, the study of evolutionary relationships among
-species using genome-scale datasets. Within this broad theme,
-I have three primary research aims:  
+My research applies primarily theoretical and computational approaches to understand
+the role that genomes play in macroevolutionary patterns and processes.  
 
 ### Detecting and characterizing introgression using genomic data
 &nbsp;  
 ![Figure 3 from Hibbins & Hahn 2019 (Genetics)](../images/research_1.jpg)
 
-Genomic data has revealed that **introgression**, the hybridization and subsequent
-back-crossing of closely related species or isolated lineages, is common
-across the tree of life. I have been working on ways to take advantage of this
-abundance of data to make more detailed and biologically informed inferences about 
+Modern genomic datasets across the tree of life have revealed a preponderance of 
+hybridization and back-crossing among previously isolated lineages, a phenomenon 
+called introgression. The high frequency of introgression is driving researchers 
+to rethink the nature of species boundaries and our models of evolutionary relationships. 
+Central to this endeavor is the creation of methods that can accurately detect and 
+characterize introgression events. In my work, I develop mathematical models and 
+statistical tools to make more detailed and biologically informed inferences about 
 the occurrence, direction, timing, and biological factors affecting introgression.
 
 ### Accounting for gene tree discordance in phylogenetic comparative methods 
 &nbsp;
 ![Figure 6 from Hibbins et al. 2020 (eLife)](../images/research_2.png)
 
-Gene tree discordance is a widespread phenomenon where the topology of trees 
-inferred at individual loci disagree both with each other and the species tree 
-topology. Two major causes are incomplete lineage sorting and introgression.
-Evolutionary changes along discordant gene tree branches results 
-in potentially misleading patterns of trait evolution. Classic phylogenetic 
-comparative methods do not account for these processes when making inferences 
-about trait evolution. I have been developing theory and software
-with the goal of making more robust inferences in the presence of gene tree
-discordance. 
+The statistical toolkit of phylogenetic comparative methods is essential to our
+understanding of processes of phenotypic evolution that play out over long timescales. 
+These methods typically assume that a single, fixed species phylogeny can
+describe evolutionary relationships, an assumption that is increasingly 
+being challenged by high rates of non-treelike patterns of relatedness such
+as incomplete lineage sorting and introgression. This can result in misleading
+comparative inferences if such patterns are not corrected for. I am interested
+in developing theory and software with the goal of making more robust comparative
+inferences from sets of discordant gene trees, which more accurately reflect these
+non-treelike processes.
 
 ### Understanding macroevolutionary drivers of genome and transcriptome evolution
 &nbsp;
