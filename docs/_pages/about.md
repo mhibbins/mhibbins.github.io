@@ -7,11 +7,11 @@ layout: single
 ![Mazinaw Lake, ON](../images/about.jpg)
 
 
-I'm an EEB Postdoctoral Fellow at The University of Toronto, working primarily with
+I am currently an NSERC Postdoctoral Fellow at The University of Toronto, working primarily with
 [Stephen Wright](https://wright.eeb.utoronto.ca/). I did my
 PhD in Evolutionary Biology with a minor in Bioinformatics,
 working in [Matthew Hahn's lab](https://hahnlab.sitehost.iu.edu/) at Indiana
-University Bloomington. I'm broadly interested in theoretical and computational
+University Bloomington. I am broadly interested in theoretical and computational
 approaches to phylogenomics. 
 
 I was born and raised in Renfrew, Ontario, Canada. I went to the University of 
