@@ -55,8 +55,9 @@ play in macroevolutionary processes such as genome evolution and speciation.
 Advances in sequencing technology and computational resources are enabling the 
 integration of phylogenetic comparative methodds with large-scale "omics" 
 datasets. This is opening new avenues for investigations of the molecular
-genetic basis of complex quantitative traits with highly polygenic genetic
-underpinnings. I am particularly interested in the evolution of gene expression
-across the whole transcriptome in response to such instances of phenotypic
-convergence. This work has been conducted primarily in collaborative efforts,
-with a current focus on the evolution of territorial aggression in songbirds.
+genetic basis of convergent evolution in complex quantitative traits with 
+highly polygenic genetic underpinnings. I am particularly interested in the 
+evolution of gene expression across the whole transcriptome in response to 
+such instances of phenotypic convergence. This work has been conducted 
+primarily in collaborative efforts, with a current focus on the evolution of 
+cavity nesting and territorial aggression in songbirds.
