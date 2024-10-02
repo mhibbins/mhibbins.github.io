@@ -7,4 +7,10 @@ layout: single
 
 ![Lab Logo](../images/lab_logo.png)
 
-The Hibbins Lab will be starting at the University of Rochester in July 2025! Stay tuned for more updates.
+Welcome to the Hibbins Lab in the Department of Biology at the University of Rochester! 
+We will be opening our doors in July of 2025. We study a variety of questions in 
+phylogenomics, using primarily computational approaches that span theory, statistical
+methods development, and bioinformatic analysis of empirical datasets. 
+
+The lab is looking for graduate students and postdocs to join in Fall 2025 or later.
+Please get in touch if you're interested! 

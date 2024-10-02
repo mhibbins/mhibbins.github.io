@@ -4,7 +4,7 @@ permalink: /research/
 layout: single
 ---
 
-My research applies primarily theoretical and computational approaches to understand
+Our research applies primarily theoretical and computational approaches to understand
 the role that genomes play in macroevolutionary patterns and processes.  
 
 ### Detecting and characterizing introgression using genomic data

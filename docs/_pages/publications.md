@@ -5,7 +5,7 @@ layout: single
 ---
 
 See my [Google Scholar page](https://scholar.google.com/citations?user=ntv9ciwAAAAJ&hl=en)
-for the most up-to-date list of my publications.
+for the most up-to-date list of our publications.
 
 ### Preprints
 
