@@ -47,7 +47,7 @@ of theory, methods development, and modern genomic techniques in a variety of
 systems. A major focus of this work to date has been developing new comparative 
 approaches to studying chromosomal rearrangements and the role they play in 
 macroevolutionary processes like convergent evolution and speciation. I am
-also interested in investigating the driversof sex chromosome gain, loss, and turnover, 
+also interested in investigating the drivers of sex chromosome gain, loss, and turnover, 
 the rate of which varies widely across the eukaryotic tree of life. 
 
 ### The molecular basis of phenotypic convergence in complex quantitative traits
