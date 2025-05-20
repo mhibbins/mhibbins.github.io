@@ -7,13 +7,11 @@ layout: single
 See my [Google Scholar page](https://scholar.google.com/citations?user=ntv9ciwAAAAJ&hl=en)
 for the most up-to-date list of our publications.
 
-### Preprints
-
-Lipshutz S.E., **Hibbins M.S.**, Bentz A.B., Buechlin A.M., Empson T.A., George E.M., Hauber M.E., Rusch D.B., Schelsky W.M., Thomas Q.K., Torneo S.J., Turner A.M., Wolf S.E., Woodruff M.J., Hahn M.W., Rosvall K.A. 2024. [Phylotranscriptomics reveals convergent behavioral evolution associated with shared and unique mechanisms in cavity-nesting songbirds.](https://doi.org/10.1101/2024.02.13.580205). BioRxiv.
-
-**Hibbins M.S.**, Rifkin J.L., Choudhury B.I, Voznesenka O., Sacchi B.M., Yuan M., Gong Y., Barrett S.C.H., Wright S.I. 2023. [Phylogenomics resolves key relationships in Rumex and uncovers a dynamic history of independently evolving sex chromosomes.](https://doi.org/10.1101/2023.12.13.571571). BioRxiv.
-
 ### Peer-reviewed journal articles
+
+Lipshutz S.E., **Hibbins M.S.**, Bentz A.B., Buechlin A.M., Empson T.A., George E.M., Hauber M.E., Rusch D.B., Schelsky W.M., Thomas Q.K., Torneo S.J., Turner A.M., Wolf S.E., Woodruff M.J., Hahn M.W., Rosvall K.A. 2024. [Repeated behavioural evolution is associated with convergence of gene expression in cavity-nesting songbirds.](https://doi.org/10.1038/s41559-025-02675-x). Nature Ecology and Evolution 9: 845-856.
+
+**Hibbins M.S.**, Rifkin J.L., Choudhury B.I, Voznesenka O., Sacchi B.M., Yuan M., Gong Y., Barrett S.C.H., Wright S.I. 2023. [Phylogenomics resolves key relationships in Rumex and uncovers a dynamic history of independently evolving sex chromosomes.](https://doi.org/10.1093/evlett/qrae060). Evolution Letters 9(2): 221-235.
 
 **Hibbins M.S.**, Hahn M.W. 2024. [Distinguishing between histories of speciation and introgression using genomic data.](https://doi.org/10.18061/bssb.v3i1.9227). Bulletin of the Society of Systematic Biologists 3(1).
 
