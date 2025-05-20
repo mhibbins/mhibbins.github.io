@@ -18,7 +18,7 @@ approaches to phylogenomics. I was born and raised in Ontario, Canada, and enjoy
 video games, and the great outdoors.
 
 Email: mark.hibbins@utoronto.ca<br /> 
-Twitter: @reject_resubmit<br />
+BlueSky: @rejectresubmit.bsky.social<br />
 GitHub: github.com/mhibbins<br />
 [CV](../CV.pdf)
  
