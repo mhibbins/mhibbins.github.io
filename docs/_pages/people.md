@@ -20,7 +20,7 @@ GitHub: github.com/mhibbins<br />
 [CV](../CV.pdf)
 
 ### Olivia Frary
-Rotation PhD Student
+E2G2 PhD Student
 
 <img src="../images/olivia.jpg" width="250" height="125">
 
