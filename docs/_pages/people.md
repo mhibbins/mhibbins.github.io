@@ -21,6 +21,7 @@ GitHub: github.com/mhibbins<br />
 
 ### Olivia Frary
 E2G2 PhD Student 
+
 NSF Graduate Research Fellow
 
 <img src="../images/olivia.jpg" width="250" height="125">
