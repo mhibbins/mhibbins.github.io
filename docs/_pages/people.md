@@ -20,7 +20,7 @@ GitHub: github.com/mhibbins<br />
 [CV](../CV.pdf)
 
 ### Olivia Frary
-E2G2 PhD Student
+E2G2 PhD Student 
 NSF Graduate Research Fellow
 
 <img src="../images/olivia.jpg" width="250" height="125">
