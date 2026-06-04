@@ -34,7 +34,7 @@ Email: ofrary@ur.rochester.edu<br />
 Website: olivia-frary.github.io
 
 ### Abigail Waryanka
-Data Science MS Student - Genomics Track
+Data Science MS Student - Genomics Track  
 GIDS-REM Fellow
 
 <img src="../images/waryanka.JPG" width="250" height="125">
