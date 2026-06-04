@@ -32,6 +32,16 @@ Outside of the lab, Olivia enjoys painting, yoga, and cross-stitch.
 
 Email: ofrary@ur.rochester.edu<br />
 Website: olivia-frary.github.io
+
+### Abigail Waryanka
+Data Science MS Student - Genomics Track
+GIDS-REM Fellow
+
+<img src="../images/waryanka.jpg" width="250" height="125">
+
+Abby grew up in Pittsburgh, Pennsylvania and studied Biology and Computer Science at Allegheny College. Her undergraduate research focused on identifying differentially expressed genes and enriched pathways in cancer tissue, which helped spark her interest in genomics. She is now pursuing a Master’s in Data Science on the Genomics Track at the University of Rochester. She is continuing to study cancer genomics with interest in gene expression and cancer phylogenetics. In her free time, Abby enjoys playing soccer, traveling, and spending time at the beach.
+
+Email: awaryanka@ur.rochester.edu
  
 ### You? 
 
