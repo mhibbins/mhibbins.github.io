@@ -19,6 +19,15 @@ BlueSky: @rejectresubmit.bsky.social<br />
 GitHub: github.com/mhibbins<br />
 [CV](../CV.pdf)
 
+### Elena M. Meyer
+Postdoctoral Research Associate
+
+<img src="../images/elena.png" width="250" height="125">
+
+Elena earned their PhD in Integrative Life Science in the [Eckert Lab](https://www.eckertlab.com/) at Virginia Commonwealth University. Prior to starting graduate school, they first became interested in evolutionary biology while an undergraduate at New College of Florida. They are interested in plant reproductive biology, phylogenetic comparative methods, and macroevolutionary patterns in angiosperm evolution. Elena also enjoys botanizing in the field, and is especially interested in the native flora of their home state, Virginia. Outside of work, they like cooking for their friends, learning languages, and creative writing.
+
+Website: evoelena.com
+
 ### Olivia Frary
 E2G2 PhD Student  
 NSF Graduate Research Fellow
