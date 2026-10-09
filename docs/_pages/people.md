@@ -26,7 +26,7 @@ Postdoctoral Research Associate
 
 Elena earned their PhD in Integrative Life Science in the [Eckert Lab](https://www.eckertlab.com/) at Virginia Commonwealth University. Prior to starting graduate school, they first became interested in evolutionary biology while an undergraduate at New College of Florida. They are interested in plant reproductive biology, phylogenetic comparative methods, and macroevolutionary patterns in angiosperm evolution. Elena also enjoys botanizing in the field, and is especially interested in the native flora of their home state, Virginia. Outside of work, they like cooking for their friends, learning languages, and creative writing.
 
-Email: emeyer15@ur.rochester.edu />
+Email: emeyer15@ur.rochester.edu<br />
 Website: evoelena.com
 
 ### Olivia Frary
